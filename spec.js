@@ -13,4 +13,3 @@ describe('Protractor Demo App', function() {
 
 new line
 second line
-Third Line
